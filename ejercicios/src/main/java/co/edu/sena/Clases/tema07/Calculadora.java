@@ -1,4 +1,4 @@
-package co.edu.sena.tema07;
+package co.edu.sena.Clases.tema07;
 
 public class Calculadora {
     public void sumar(int a, int b) {

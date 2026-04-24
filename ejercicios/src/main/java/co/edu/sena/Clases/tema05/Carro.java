@@ -1,4 +1,4 @@
-package co.edu.sena.tema05;
+package co.edu.sena.Clases.tema05;
 
 public class Carro {
     public void prende() {

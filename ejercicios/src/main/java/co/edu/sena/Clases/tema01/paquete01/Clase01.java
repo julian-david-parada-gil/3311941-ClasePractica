@@ -1,4 +1,4 @@
-package co.edu.sena.tema03.paquete01;
+package co.edu.sena.Clases.tema01.paquete01;
 
 public class Clase01 {
     private String atributo1;

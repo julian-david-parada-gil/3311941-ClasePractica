@@ -1,4 +1,4 @@
-package co.edu.sena.tema07;
+package co.edu.sena.Clases.tema07;
 
 public class App {
     public static void main(String[] args) {

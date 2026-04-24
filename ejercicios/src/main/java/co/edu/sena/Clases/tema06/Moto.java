@@ -1,4 +1,4 @@
-package co.edu.sena.tema06;
+package co.edu.sena.Clases.tema06;
 
 public class Moto {
     private String marca;

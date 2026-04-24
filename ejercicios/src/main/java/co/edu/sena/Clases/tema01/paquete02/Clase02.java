@@ -1,6 +1,6 @@
-package co.edu.sena.tema03.paquete02;
+package co.edu.sena.Clases.tema01.paquete02;
 
-import co.edu.sena.tema03.paquete01.Clase01;
+import co.edu.sena.Clases.tema01.paquete01.Clase01;
 
 public class Clase02 extends Clase01 {
 
