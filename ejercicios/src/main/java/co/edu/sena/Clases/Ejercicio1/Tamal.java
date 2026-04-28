@@ -3,7 +3,7 @@ package co.edu.sena.Clases.Ejercicio1;
 public class Tamal {
 
     private String color;
-    private String tamaño;
+    private String tamano;
     private String region;
     private float precio;
     private float peso;
@@ -11,7 +11,7 @@ public class Tamal {
     public Tamal() {
       
     }  
-    
+
     public String getColor() {
         return color;
     }
@@ -20,12 +20,12 @@ public class Tamal {
         this.color = color;
     }
 
-    public String getTamaño() {
-        return tamaño;
+    public String getTamano() {
+        return tamano;
     }
 
-    public void setTamaño(String tamaño) {
-        this.tamaño = tamaño;
+    public void setTamano(String tamano) {
+        this.tamano = tamano;
     }
 
     public String getRegion() {
