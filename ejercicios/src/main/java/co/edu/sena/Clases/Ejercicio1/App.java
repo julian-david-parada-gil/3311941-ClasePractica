@@ -27,7 +27,7 @@ public class App {
 
         Tamal tamal = new Tamal();
         tamal.setColor("Verde");
-        tamal.setTamaño("Mediano");
+        tamal.setTamano("Mediano");
         tamal.setRegion("Paisa");
         tamal.setPrecio(3.0f);
         tamal.setPeso(0.5f);
