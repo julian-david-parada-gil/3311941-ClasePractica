@@ -8,12 +8,8 @@ public class Avion {
     private int turbinas;
     private int capacidad;
 
-    public Avion(String color, float precio, String marca, int turbinas, int capacidad) {
-        this.color = color;
-        this.precio = precio;
-        this.marca = marca;
-        this.turbinas = turbinas;
-        this.capacidad = capacidad;
+    public Avion() {
+    
     }
 
     public String getColor() {

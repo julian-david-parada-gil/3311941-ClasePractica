@@ -8,12 +8,8 @@ public class Tamal {
     private float precio;
     private float peso;
 
-    public Tamal(String color, String tamaño, String region, float precio, float peso) {
-        this.color = color;
-        this.tamaño = tamaño;
-        this.region = region;
-        this.precio = precio;
-        this.peso = peso;
+    public Tamal() {
+      
     }  
     
     public String getColor() {

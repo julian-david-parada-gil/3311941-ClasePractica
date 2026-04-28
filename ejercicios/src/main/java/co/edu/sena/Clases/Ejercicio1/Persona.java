@@ -7,12 +7,8 @@ public class Persona {
     private String colorCabello;
     private int lunares;
 
-    public Persona(String colorOjos, String colorPiel, int dedos, String colorCabello, int lunares) {
-        this.colorOjos = colorOjos;
-        this.colorPiel = colorPiel;
-        this.dedos = dedos;
-        this.colorCabello = colorCabello;
-        this.lunares = lunares;
+    public Persona() {
+    
     }
 
     public String getColorOjos() {

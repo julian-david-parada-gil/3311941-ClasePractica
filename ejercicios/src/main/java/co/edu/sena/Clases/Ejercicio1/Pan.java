@@ -8,12 +8,8 @@ public class Pan {
     private float peso;
     private String sabor;
 
-    public Pan(String tipo, float precio, String color, float peso, String sabor) {
-        this.tipo = tipo;
-        this.precio = precio;
-        this.color = color;
-        this.peso = peso;
-        this.sabor = sabor;
+    public Pan() {
+       
     }
 
     public String getTipo() {

@@ -8,12 +8,8 @@ public class Arbol {
     private float diametro;
     private String tipo;
 
-    public Arbol(String color, float altura, int edad, float diametro, String tipo) {
-        this.color = color;
-        this.altura = altura;
-        this.edad = edad;
-        this.diametro = diametro;
-        this.tipo = tipo;
+    public Arbol() {
+        
     }
 
     public String getColor() {

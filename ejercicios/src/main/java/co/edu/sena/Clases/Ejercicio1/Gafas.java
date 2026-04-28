@@ -8,12 +8,8 @@ public class Gafas {
     private float grosor;
     private String estilo;
 
-    public Gafas(String marca, float precio, String color, float grosor, String estilo) {
-        this.marca = marca;
-        this.precio = precio;
-        this.color = color;
-        this.grosor = grosor;
-        this.estilo = estilo;
+    public Gafas() {
+    
     }
 
     public String getMarca() {
